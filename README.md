@@ -1,8 +1,11 @@
 ### Hi there 👋
-I'm kitoxis! I have learned SkriptLang(Not fully, but I can write and I have writen some scripts) and I am going to be learning Java soon!
-- I'm currently working on:
-  1. Starfal Development
-  2. Shock Legends
+I'm **kitoxis**! I have learned **SkriptLang**(Not fully, but I can write and I have writen some scripts) and I am learning **Java** in the meantime of also making **plugins** for people to use!
+I **have made plugins** like:
+- **kVisuals**
+- **kLocks**
+
+I am the founder **Starfal Development** which is a group of cool people who make really cool plugins for people to use! You can see the Starfal Wiki here: [https://wiki.starfal.net](https://wiki.starfal.net) and the website here: [https://starfal.net](https://starfal.net), you can also join Starfal's discord for updates on plugins and news on new plugins! [https://starfal.net/discord](https://starfal.net/discord)
+
 
 <!--
 **KITOXIS/KITOXIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
