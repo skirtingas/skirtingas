@@ -1,23 +1,15 @@
-### Hi there 👋
-I'm **kitoxis**! I have learned **SkriptLang**(Not fully, but I can write and I have writen some scripts) and I am learning **Java** in the meantime of also making **plugins** for people to use!
-I **have made plugins** like:
-- **kVisuals**
-- **kLocks**
+# Hello!
+I'm Skirtingas, but you can call me Skir. My name isn't just a random choice; it's meaning comes from my home language – Lithuanian. Translated from Lithuanian to English, "Skirtingas" means "Different".
 
-I am the founder **Starfal Development** which is a group of cool people who make really cool plugins for people to use! You can see the Starfal Wiki here: [https://wiki.starfal.net](https://wiki.starfal.net) and the website here: [https://starfal.net](https://starfal.net), you can also join Starfal's discord for updates on plugins and news on new plugins! [https://starfal.net/discord](https://starfal.net/discord)
+I currently have made/am making 2 projects:
+- https://althar.xyz - The true dungeons realm!
+- https://skir.dev - My own personal website with my projects.
 
+In my personal website you can find:
+1. Some history of Starfal and myself. (https://skir.dev/about)
+2. My socials (https://skir.dev/about)
+3. Wiki for my projects (https://skir.dev/wiki)
+4. A list of my projects (https://skir.dev/projects)
 
-<!--
-**KITOXIS/KITOXIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want, you can also join my discord!
+https://skir.dev/discord
